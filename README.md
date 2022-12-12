@@ -24,6 +24,13 @@ According to the previous results and implementation in the China securities 100
 The project will contribute to the application of machine learning methods in investment, and tell which algorithm can construct a better portfolio based on the prediction results. The study considers trade execution, taking transaction cost into account, and thus it can provide a direction for the improvement of the algorithms in a real-world implementation.
 
 ## Table of Contents
+[Data](https://rising-stars-by-sunshine.github.io/Jay-Final/#data)
+[Code](https://rising-stars-by-sunshine.github.io/Jay-Final/#code)
+[Spotlight](https://rising-stars-by-sunshine.github.io/Jay-Final/Spotlight)
+[more about the author](https://rising-stars-by-sunshine.github.io/Jay-Final/#more_about-the-author)
+[references](https://rising-stars-by-sunshine.github.io/Jay-Final/#references)
+
+
 | Contents  | URL |
 | ------------- | ------------- |
 | Data  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#data |
