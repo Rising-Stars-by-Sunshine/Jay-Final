@@ -14,9 +14,7 @@ The study will choose a portfolio of 10 stocks. All the stock price data in the 
 Previous studies (Hernández-Nieves et al. 2020) (Peng and Linetsky 2022) have used prediction results in portfolio optimization, and Abel et. al.’s (2013) study has included the transaction cost in their trade execution. Based on these studies, we combine the two parts and widen its machine learning choice. At last, our study can also provide a direction for algorithm improvement.
 - **Methodology**: 
 First, we will use two machine learning models, i.e., random forest (RF) and support vector regression (SVR), three deep learning models, i.e., LSTM neural network, deep multilayer perceptron (DMLP), and convolutional neural network (CNN), and one benchmark, i.e., autoregressive integrated moving average (ARIMA) to predict the return of investment (ROI) based on the 10-day simple moving average (SMA) of historical ROI. (Ma, Han, and Wang 2021)
-
 Moreover, based on the former predictive results, we will input the data into mean-variance for forecasting (MVF) and omega for forecasting (OF) portfolio optimization models to construct the portfolio. (Ma, Han, and Wang 2021)
-
 At last, considering the trade execution in the US stock market, we will deduct the transaction cost and work out the net profits. Then, we can compare the net profit of all the portfolios and find out which combination performs the best.
 
 - **Expected Results**: 
