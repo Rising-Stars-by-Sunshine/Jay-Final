@@ -84,7 +84,7 @@ Figure No.3 is the histogram of prediction value and true value using the algori
 - **Headshot** 
 
 <img width="460" height="440" src="./spotlight/11232435.png">)
-- **self-introduction**
+- **Self-introduction**
 
 My name is Jiayi Wang. I am a junior at Duke Kunshan University. I major in Applied mathematics with track in Economics and Environment. I am interested in Computational Science, Blochchain, Chemistry and Finance.
 - **Final reflections**
