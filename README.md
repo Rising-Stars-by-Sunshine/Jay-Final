@@ -21,13 +21,13 @@ At last, considering the trade execution in the US stock market, we will deduct 
 According to the previous results and implementation in the China securities 100 indexes, Random Forests machine learbning alogorithm combines with mean-variance for forecasting portfolio optimization model may still outperform othercombinations in the US stock market.
 
   - **Intellectual Merit & Practical Impacts**: 
-The project will contribute to the application of machine learning methods in investment, and tell which algorithm can construct a better portfolio based on the prediction results. The study considers trade execution, taking transaction cost into account, and thus it can provide a direction for the improvement of the algorithms in a real-world implementation.
+The project will contribute to the application of machine learning methods in investment, and tell which algorithm can construct a better portfolio based on the prediction results. The study considers trade execution, taking transaction cost into account, and thus it can provide a direction for the improvement of the algorithms in a real-world implementation. Also, based on the results, it can provide a direction for improving the machine learning algorithms.
 
 ## Table of Contents
 -[Data](https://rising-stars-by-sunshine.github.io/Jay-Final/#data)
 -[Code](https://rising-stars-by-sunshine.github.io/Jay-Final/#code)
 -[Spotlight](https://rising-stars-by-sunshine.github.io/Jay-Final/Spotlight)
--[more about the author](https://rising-stars-by-sunshine.github.io/Jay-Final/#more_about-the-author)
+-[more about the author](https://rising-stars-by-sunshine.github.io/Jay-Final/#More_about-the-author)
 -[references](https://rising-stars-by-sunshine.github.io/Jay-Final/#references)
 
 
@@ -36,7 +36,7 @@ The project will contribute to the application of machine learning methods in in
 | Data  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#data |
 | Code  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#code  |
 | Spotlight  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#Spotlight  |
-| more about the author  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#more-about-the-author |
+| more about the author  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#More-about-the-author |
 | references  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#references  |
 
 
