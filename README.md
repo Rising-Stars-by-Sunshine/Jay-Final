@@ -27,8 +27,8 @@ The project will contribute to the application of machine learning methods in in
 - [Data](https://rising-stars-by-sunshine.github.io/Jay-Final/#data)
 - [Code](https://rising-stars-by-sunshine.github.io/Jay-Final/#code)
 - [Spotlight](https://rising-stars-by-sunshine.github.io/Jay-Final/Spotlight)
-- [more about the author](https://rising-stars-by-sunshine.github.io/Jay-Final/#More_about-the-Author)
-- [references](https://rising-stars-by-sunshine.github.io/Jay-Final/#references)
+- [More about the Author](https://rising-stars-by-sunshine.github.io/Jay-Final/#More_about-the-Author)
+- [References](https://rising-stars-by-sunshine.github.io/Jay-Final/#references)
 
 
 | Contents  | URL |
@@ -36,8 +36,8 @@ The project will contribute to the application of machine learning methods in in
 | Data  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#data |
 | Code  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#code  |
 | Spotlight  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#Spotlight  |
-| more about the author  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#More-about-the-Author |
-| references  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#references  |
+| More about the Author  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#More-about-the-Author |
+| References  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#references  |
 
 
 ## Data
