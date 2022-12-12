@@ -94,9 +94,8 @@ First, we need to figure out what we want to predict, the Y variable and we want
 ## References
 
 ### Data Source
-| Source  | URL |
-| ------------- | ------------- |
-| Yahoo Finance | https://finance.yahoo.com |
+
+[Yahoo Finance](https://finance.yahoo.com )
 ### Code Source
 [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 ### Articles
