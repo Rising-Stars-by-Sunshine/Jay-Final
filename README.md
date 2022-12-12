@@ -7,7 +7,7 @@
 - **Project Summary**: 
   - **Background & Motivation**:
 AI has already been widely used in deciding investments. However, not many previous studies have considered the transaction cost in the US stock market, which cannot verify its earning ability in the real world.
-- **Research Questions**:
+  - **Research Questions**:
 The portfolio constructed by which combination of the machine learning method and portfolio optimization model will have the highest net profit.
   - **Application Scenario(Data Source)**: 
 The study will choose a portfolio of 10 stocks. All the stock price data in the study will come from Yahoo Finance. The open price (O) and close price (C) will be used.  
