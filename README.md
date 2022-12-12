@@ -5,22 +5,22 @@
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I am deeply indebted to my professor Luyao Zhang for her invaluable patience and feedback. I could not started my journey without her instructions and help. Additionally, this endeavor would not have been possible without Yahoo Finance. I am also grateful to my classmates, especially for Josh's suggestions on my poster. Lastly, I would be remiss in not mentioning my family, especially my parents.
 - **Project Summary**: 
-- **Background & Motivation**:
+  - **Background & Motivation**:
 AI has already been widely used in deciding investments. However, not many previous studies have considered the transaction cost in the US stock market, which cannot verify its earning ability in the real world.
 - **Research Questions**:
 The portfolio constructed by which combination of the machine learning method and portfolio optimization model will have the highest net profit.
-- **Application Scenario(Data Source)**: 
+  - **Application Scenario(Data Source)**: 
 The study will choose a portfolio of 10 stocks. All the stock price data in the study will come from Yahoo Finance. The open price (O) and close price (C) will be used.  
 Previous studies (Hernández-Nieves et al. 2020) (Peng and Linetsky 2022) have used prediction results in portfolio optimization, and Abel et. al.’s (2013) study has included the transaction cost in their trade execution. Based on these studies, we combine the two parts and widen its machine learning choice. At last, our study can also provide a direction for algorithm improvement.
-- **Methodology**: 
+  - **Methodology**: 
 First, we will use two machine learning models, i.e., random forest (RF) and support vector regression (SVR), three deep learning models, i.e., LSTM neural network, deep multilayer perceptron (DMLP), and convolutional neural network (CNN), and one benchmark, i.e., autoregressive integrated moving average (ARIMA) to predict the return of investment (ROI) based on the 10-day simple moving average (SMA) of historical ROI. (Ma, Han, and Wang 2021)
 Moreover, based on the former predictive results, we will input the data into mean-variance for forecasting (MVF) and omega for forecasting (OF) portfolio optimization models to construct the portfolio. (Ma, Han, and Wang 2021)
 At last, considering the trade execution in the US stock market, we will deduct the transaction cost and work out the net profits. Then, we can compare the net profit of all the portfolios and find out which combination performs the best.
 
-- **Expected Results**: 
+  - **Expected Results**: 
 According to the previous results and implementation in the China securities 100 indexes, Random Forests machine learbning alogorithm combines with mean-variance for forecasting portfolio optimization model may still outperform othercombinations in the US stock market.
 
-- **Intellectual Merit & Practical Impacts**: 
+  - **Intellectual Merit & Practical Impacts**: 
 The project will contribute to the application of machine learning methods in investment, and tell which algorithm can construct a better portfolio based on the prediction results. The study considers trade execution, taking transaction cost into account, and thus it can provide a direction for the improvement of the algorithms in a real-world implementation.
 
 ## Table of Contents
@@ -80,8 +80,8 @@ Figure No.3 is the histogram of prediction value and true value using the algori
 - self-introduction:
 My name is Jiayi Wang. I am a junior at Duke Kunshan University. I major in Applied mathematics with track in Economics and Environment. I am interested in Computational Science, Blochchain, Chemistry and Finance.
 - Final reflections 
-First, we need to figure out what we want to predict and we want to use what to predict. 
-The discussion on applying machine learning methods to solve social science problems can be divided into three parts. The first part is data description. We can use a variety of data visualization methods, including histograms and heatmaps, to communicate social science problems to the public in a more concise and clear way, which is also convenient for us to conduct further analysis and interpretation. The second part is the data prediction. We input historical data containing X variables and Y variables into the machine, and then use machine learning algorithms to learn the data, thus to predict the Y variables we want. Data prediction provides a good tool for us to solve prediction problems in social sciences by traversing a large amount of historical data and looking for internal laws. For example, we can use historical stock prices to predict future stock market movements and provide decision suggestions for investors, companies and governments. The third part is causal inference. We conduct causal inference when social scientists want to explore the reasons why one variable in a system may affect another. Based on massive data and algorithms, machine learning evaluates the causal effect of each predictor variable on the outcome, making it more convenient to determine the causality.
+First, we need to figure out what we want to predict, the Y variable and we want to use what to predict, the X variable. Afterwards, we need to let the machine learning algorithm to learn from our train data, and then we can use the historical data X to predict Y. Second, it is the causal inference. The algorithms kearn from massive data, and thus these data and algorithms have become solid evidence for the existence of the causality between X and Y. At last, we always need visulization to show the results. With the figures, it gives us a clearer and more direct feeling of the social science problems.
+
 
 
 ## References
