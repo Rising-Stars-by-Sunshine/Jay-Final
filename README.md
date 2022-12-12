@@ -27,7 +27,7 @@ The project will contribute to the application of machine learning methods in in
 - [Data](https://rising-stars-by-sunshine.github.io/Jay-Final/#data)
 - [Code](https://rising-stars-by-sunshine.github.io/Jay-Final/#code)
 - [Spotlight](https://rising-stars-by-sunshine.github.io/Jay-Final/Spotlight)
-- [more about the author](https://rising-stars-by-sunshine.github.io/Jay-Final/#More_about-the-author)
+- [more about the author](https://rising-stars-by-sunshine.github.io/Jay-Final/#More_about-the-Author)
 - [references](https://rising-stars-by-sunshine.github.io/Jay-Final/#references)
 
 
@@ -36,7 +36,7 @@ The project will contribute to the application of machine learning methods in in
 | Data  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#data |
 | Code  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#code  |
 | Spotlight  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#Spotlight  |
-| more about the author  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#More-about-the-author |
+| more about the author  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#More-about-the-Author |
 | references  | https://github.com/Rising-Stars-by-Sunshine/Jay-Final#references  |
 
 
@@ -81,12 +81,12 @@ Figure No.3 is the histogram of prediction value and true value using the algori
 
 
 ## More about the Author
-- Headshot: 
+- **Headshot** 
 
 <img width="460" height="440" src="./spotlight/11232435.png">)
-- self-introduction:
+- **self-introduction**
 My name is Jiayi Wang. I am a junior at Duke Kunshan University. I major in Applied mathematics with track in Economics and Environment. I am interested in Computational Science, Blochchain, Chemistry and Finance.
-- Final reflections 
+- **Final reflections **
 First, we need to figure out what we want to predict, the Y variable and we want to use what to predict, the X variable. Afterwards, we need to let the machine learning algorithm to learn from our train data, and then we can use the historical data X to predict Y. Second, it is the causal inference. The algorithms kearn from massive data, and thus these data and algorithms have become solid evidence for the existence of the causality between X and Y. At last, we always need visulization to show the results. With the figures, it gives us a clearer and more direct feeling of the social science problems.
 
 
