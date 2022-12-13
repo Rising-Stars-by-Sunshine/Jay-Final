@@ -2,7 +2,7 @@
 ## Project information
 - **Author**: Jiayi Wang, Applied Mathematics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Final Project for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I am deeply indebted to my professor Luyao Zhang for her invaluable patience and feedback. I could not started my journey without her instructions and help. Additionally, this endeavor would not have been possible without Yahoo Finance. I am also grateful to my classmates, especially for Josh's suggestions on my poster. Lastly, I would be remiss in not mentioning my family, especially my parents.
 - **Project Summary**: 
   - **Background & Motivation**:
