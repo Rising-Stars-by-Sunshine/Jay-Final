@@ -26,7 +26,7 @@ The project will contribute to the application of machine learning methods in in
 ## Table of Contents
 - [Data](https://rising-stars-by-sunshine.github.io/Jay-Final/#data)
 - [Code](https://rising-stars-by-sunshine.github.io/Jay-Final/#code)
-- [Spotlight](https://rising-stars-by-sunshine.github.io/Jay-Final/Spotlight)
+- [Spotlight](https://rising-stars-by-sunshine.github.io/Jay-Final/#Spotlight)
 - [More about the Author](https://rising-stars-by-sunshine.github.io/Jay-Final/#More_about-the-Author)
 - [References](https://rising-stars-by-sunshine.github.io/Jay-Final/#references)
 
