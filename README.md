@@ -56,28 +56,38 @@ The project will contribute to the application of machine learning methods in in
 
 
 ## Spotlight
-- **Posters**:
+- **Posters**
 
 ![poster](./spotlight/figures/Your%20paragraph%20text.jpg)
 Figure No.1. Project Poster
 
 **Figure No.1. Project poster, created by [Canva](https://www.canva.com)**
 
-- **Figures**:
+
+Figure No.1 demonstrates the six sections of my research: Summary, Research Question, Data Source, Methodology, Contribution to Literature, and Previous Results.
+
+- **Explanation Figure**
+
+
+
+
+
+- **Prediction Figure**
+
 ![RF1](./spotlight/figures/C-RF.png)
 Figure No.2. The Confusion Matrix for Random Forest Classifier
 
-**Figure No.2. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
+**Figure No.3. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
 
-Figure No.2 is the confusion matrix of [Random Forest Classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification) algorithm for GOOGL's return of investment (ROI) prediction using historical ROI data. The confusion matrix evaluates the performance of the classification algorithm. In this matrix, the X-axis is the predicted label and the Y-axis is the true label, in which 0 implies negative ROI while 1 indicates the ROI is nonnegative. From the left to the right, from the top to the bottom are TP, FP, FN, and TN respectively. In the model, the accuracy is (TP + TN)/(TP + TN + FP + FN) = 361/ 749= 0.48, the recall is TP/(TP + FN) = 182/361 = 0.50, and the precision is TP/(TP + FP) = 182/357 = 0.51 
+Figure No.3 is the confusion matrix of [Random Forest Classification](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier) algorithm for GOOGL's return of investment (ROI) prediction using historical ROI data. The confusion matrix evaluates the performance of the classification algorithm. For the data set we used for prediction, the X variable is the past 10-day moving average of the two-day ROI of GOOGL, and the Y variable is the future ROI. In this matrix, the X-axis is the predicted label and the Y-axis is the true label, in which 0 implies negative ROI while 1 indicates the ROI is nonnegative. From the left to the right, from the top to the bottom are TP, FP, FN, and TN respectively. In the model, the accuracy is (TP + TN)/(TP + TN + FP + FN) = 361/ 749= 0.48, the recall is TP/(TP + FN) = 182/361 = 0.50, and the precision is TP/(TP + FP) = 182/357 = 0.51 
 
 
 ![RF1](./spotlight/figures/R-RF.png)
-Figure No.3. Histogram of Prediction Value y under Random Forest Regression
+Figure No.4. Histogram of Prediction Value y under Random Forest Regression
 
-**Figure No.3. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
+**Figure No.4. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
 
-Figure No.3 is the histogram of prediction value and true value using the algorithm Random Forest Regression. We are using the historical return of investment (ROI) data of GOOGL to predict the GOOGL ROI. The x-axis represents the ROI and the y-axis represents the number of data under each ROI. The more area the true value and the prediction value duplicates, the more accurate the prediction is. Under this algorithm, some area of true and the prediction duplicates together while the area is not large, showing that the predictive result is not very close to the true value. Meanwhile, the r2 score is -0.21, which is the closer to 1, the two variables are more related, showing the two values are not strongly correlated. 
+Figure No.3 is the histogram of prediction value and true value using the Random Forest Regression algorithm for GOOGL's return of investment (ROI) prediction using historical ROI data. For the data set we used for prediction, the X variable is the past 10-day moving average of the two-day ROI of GOOGL, and the Y variable is the future ROI. The x-axis represents the ROI and the y-axis represents the number of data under each ROI. The more area the true value and the prediction value duplicates, the more accurate the prediction is. Under this algorithm, some area of true and the prediction duplicates together while the area is not large, showing that the predictive result is not very accurate. Meanwhile, the r2 score is -0.21, which is the closer to 1, the two variables are more related. The predictive result and the true value are all normal distributed and the peak is almost the same. It has shown that the linear model can be not enough to describe the realationship and we need to improve the algorithm. 
 
 
 ## More about the Author
