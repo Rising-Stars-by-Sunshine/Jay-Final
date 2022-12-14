@@ -69,7 +69,7 @@ Figure No.1 demonstrates the six sections of my research: Summary, Research Ques
 - **Explanation Figure**
 ![exp](./spotlight/figures/explanation.png)
 
-**Figure No.2. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL)
+**Figure No.2. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by Python**
 
 Figure No.3 is the time-series chart of Aave's return on investment (ROI) from January 1st, 2014 to December 2nd, 2022. The X-axis shows the timestamp and the Y-axis shows the return of investment (ROI) of GOOGL. The ROI line fluctuates around Y=0. When the line goes upward, the ROI of GOOGL is larger; and when the line goes downward, the ROI is smaller. From left to right on the x-axis, it represents that the time is closer to the present. From this figure, the highest two-day ROI is around 0.18, while the lowest is around -0.11.
 
