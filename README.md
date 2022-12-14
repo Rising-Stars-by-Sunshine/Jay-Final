@@ -73,13 +73,13 @@ Figure NO.2. The Time-Series ROI chart of GOOGL
 
 **Figure No.2. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by Python**
 
-Figure No.3 is the time-series chart of Aave's return on investment (ROI) from January 1st, 2014 to December 2nd, 2022. The X-axis shows the timestamp and the Y-axis shows the return of investment (ROI) of GOOGL. The ROI line fluctuates around Y=0. When the line goes upward, the ROI of GOOGL is larger; and when the line goes downward, the ROI is smaller. From left to right on the x-axis, it represents that the time is closer to the present. From this figure, the highest two-day ROI is around 0.18, while the lowest is around -0.11.
+Figure No.2 is the time-series chart of Aave's return on investment (ROI) from January 1st, 2014 to December 2nd, 2022. The X-axis shows the timestamp and the Y-axis shows the return of investment (ROI) of GOOGL. The ROI line fluctuates around Y=0. When the line goes upward, the ROI of GOOGL is larger; and when the line goes downward, the ROI is smaller. From left to right on the x-axis, it represents that the time is closer to the present. From this figure, the highest two-day ROI is around 0.18, while the lowest is around -0.11.
 
 
 - **Prediction Figure**
 
 ![RF1](./spotlight/figures/C-RF.png)
-Figure No.2. The Confusion Matrix for Random Forest Classifier
+Figure No.3. The Confusion Matrix for Random Forest Classifier
 
 **Figure No.3. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
 
@@ -91,7 +91,7 @@ Figure No.4. Histogram of Prediction Value y under Random Forest Regression
 
 **Figure No.4. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL), created by [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
 
-Figure No.3 is the histogram of prediction value and true value using the Random Forest Regression algorithm for GOOGL's return of investment (ROI) prediction using historical ROI data. For the data set we used for prediction, the X variable is the past 10-day moving average of the two-day ROI of GOOGL, and the Y variable is the future ROI. The x-axis represents the ROI and the y-axis represents the number of data under each ROI. The more area the true value and the prediction value duplicates, the more accurate the prediction is. Under this algorithm, some area of true and the prediction duplicates together while the area is not large, showing that the predictive result is not very accurate. Meanwhile, the r2 score is -0.21, which is the closer to 1, the two variables are more related. The predictive result and the true value are all normal distributed and the peak is almost the same. It has shown that the linear model can be not enough to describe the relationship and we need to improve the algorithm. 
+Figure No.4 is the histogram of prediction value and true value using the Random Forest Regression algorithm for GOOGL's return of investment (ROI) prediction using historical ROI data. For the data set we used for prediction, the X variable is the past 10-day moving average of the two-day ROI of GOOGL, and the Y variable is the future ROI. The x-axis represents the ROI and the y-axis represents the number of data under each ROI. The more area the true value and the prediction value duplicates, the more accurate the prediction is. Under this algorithm, some area of true and the prediction duplicates together while the area is not large, showing that the predictive result is not very accurate. Meanwhile, the r2 score is -0.21, which is the closer to 1, the two variables are more related. The predictive result and the true value are all normal distributed and the peak is almost the same. It has shown that the linear model can be not enough to describe the relationship and we need to improve the algorithm. 
 
 
 ## More about the Author
