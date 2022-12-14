@@ -67,7 +67,7 @@ Figure No.1. Project Poster
 Figure No.1 demonstrates the six sections of my research: Summary, Research Question, Data Source, Methodology, Contribution to Literature, and Previous Results.
 
 - **Explanation Figure**
-![exp]()
+![exp](./spotlight/figures/explanation.png)
 
 **Figure No.2. source: [Yahoo Finance, Alphabet Inc.](https://finance.yahoo.com/quote/GOOGL/history?p=GOOGL)
 
